@@ -1,0 +1,12 @@
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.log
+*.db
+*.DS_Store
+node_modules/
+.env
+Dockerfile
+docker-compose*
